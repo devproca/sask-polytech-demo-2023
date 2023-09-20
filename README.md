@@ -1,6 +1,6 @@
 # Saskatchewan Polytechnic demo
 
-We are going to create a Spring Boot REST CRUD application in 20 minutes or less... hopefully.
+We are going to create a Spring Boot REST CRUD application in 15 minutes or less... hopefully.
 
 ## Technologies we are using
 * Spring - Java framework that provides comprehensive infrastructure support for developing Java applications
